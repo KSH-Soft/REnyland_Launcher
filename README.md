@@ -1,3 +1,5 @@
+<span style="color:red">Texte en rouge</span>
+
 <code style="color : red">On the night of 01-05-2025, the WebHook of the application was hacked,<br> So I removed it, Some features or the whole software may no longer work.<br>Please contact me if you need to use it again.</code>
 
 <h1 align="center" style="font-weight: bold;">RENYLAND LAUNCHER 💻</h1>
