@@ -81,7 +81,6 @@ Details of launcher version, mod version, internet connectivity and Renyland ser
 Here you list all prerequisites necessary for running your project. For example:
 
 - Windows
-- Anyland
 
 <h3>Starting</h3>
 
